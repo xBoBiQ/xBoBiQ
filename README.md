@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Adrian</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h1>Hi there 👋, I'm Adrian</h1>
+<h3>A passionate fullstack developer from Poland</h3>
 
 - 😄 Pronouns: He/Him
 
